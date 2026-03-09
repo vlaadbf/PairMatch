@@ -242,5 +242,6 @@ Căile fișierelor sunt definite direct în cod, în secțiunea:
 
 ```python
 
-BASE = r'C:\\Users\\capri\\Desktop\\SITUATIE PENTRU PERECHI\\potrivire'
+BASE = r''
+
 
